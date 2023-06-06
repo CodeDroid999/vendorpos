@@ -1,26 +1,24 @@
-# vendorpos
-
+## vendorpos
 <div align=center>
          
-![Service Hub](https://user-images.githubusercontent.com/2787296/214809231-da86cf75-82e8-4c7d-9e58-12e690d5282c.png)
-
 | **Please star ⭐ the repo if you find it useful. Issues and PRs are more then WELCOME!** |
 | --- |
          
-<table><tbody><tr><td><a href="https://github.com/JovianX/service-hub/stargazers"> Thank you dear stargazers! ⭐🤩 </a></td><td> <a href="https://github.com/JovianX/Service-Hub//blob/main/documentation/">Docs 🕮 </a></td><td><a href="https://discord.gg/CmFvFJDXZv"> Questions? Ask on Discord 💬 </a></td></tr></tbody></table>
+<table><tbody><tr><td><a href="https://github.com/CodeDroid999/CryptPy/stargazers"> Thank you dear stargazers! ⭐🤩 </a></td><td> <a href="https://github.com//">Docs 🕮 </a></td><td><a href="https://discord.gg/CmFvFJDXZv"> Questions? Ask on Discord 💬 </a></td></tr></tbody></table>
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/JovianX/Service-Hub)
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/JovianX/Service-Hub)
-![GitHub contributors](https://img.shields.io/github/contributors/JovianX/Service-Hub)
+<!--![GitHub contributors](https://img.shields.io/github/contributors/CryptPy)
 ![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/platform_engineering)
 ![Discord](https://img.shields.io/discord/1014893148599754894)
-[![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+[![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)--->
 </div>
+# 📜 License
 
-# What is JovianX Service Hub?
-JovianX **Service Hub** is a tool that enables Self-Service for internal stakeholders. It exposes an on-demand catalog of infrastrucutre services (for example databases, s3 buckets, Airflow workflow execution, services with or without pre-configured or pre-loaded datasets , etc') via a simple self-service UI and CLI. 
+Copyright 2022 CodeDroid999.
 
-Service Hub is commonly used by Platform and DevOps Engineers.
+Licensed under the Apache License, Version 2.0 (the "License");
+
 
 
 ## Use Cases
